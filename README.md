@@ -1,7 +1,4 @@
 Hi, I’m Om Amin
-I am a computer science major
+I am a 2nd year student at The Ohio State University studying Computer Science and Engineering
 
-<!---
-omamin135/omamin135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
