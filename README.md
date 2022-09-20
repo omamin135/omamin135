@@ -1,1 +1,1 @@
-I'm a sophmore studying computer science and engineering at The Ohio State University. Through my years at OSU I have leanred how to apply myself to collaboratively lead and solve many problems with others.
+I'm a sophmore studying computer science and engineering at The Ohio State University. Through my years at OSU I have learned how to apply myself to collaboratively lead and solve many problems with others.
