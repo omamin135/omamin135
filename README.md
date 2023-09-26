@@ -4,7 +4,7 @@ My name is Om Amin, and I'm a student studying Computer Science and Engineering 
 About Me:\
 🌱 I'm currently learning web development through react\
 📫 How to reach me: https://www.linkedin.com/in/om-amin/ \
-😄 Pronouns: He/Him
+
 
 Skills and Expertise:\
 Python\
